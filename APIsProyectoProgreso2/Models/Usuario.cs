@@ -12,3 +12,4 @@
         public double TotalPagar => Math.Ceiling((FechaSalida - FechaIngreso).TotalHours) * 2;
     }
 }
+//
